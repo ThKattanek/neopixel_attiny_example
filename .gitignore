@@ -11,5 +11,5 @@ fp-info-cache
 *.xml
 *.ses
 _autosave-*
-firmware/firmware_1541_rebuild.*
+firmware/neopixel_attiny_example.*
 /tests
